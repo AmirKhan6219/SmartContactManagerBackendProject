@@ -1,5 +1,0 @@
-com\smarts\entity\Mobile.class
-com\smarts\repository\ContactRepository.class
-com\smarts\entity\Contact.class
-com\smarts\SmartsContactsManagersApplication.class
-com\smarts\controller\ContactController.class
